@@ -49,7 +49,12 @@ export const colors = {
   /**
    * The default text color in many components.
    */
-  text: palette.neutral800,
+  text: "#000000",
+  /**
+   * the primary color
+   */
+  primary: "#003161",
+
   /**
    * Secondary text information.
    */
@@ -57,7 +62,7 @@ export const colors = {
   /**
    * The default color of the screen background.
    */
-  background: palette.neutral200,
+  background: "#FFFFFF",
   /**
    * The default border color.
    */
